@@ -1,6 +1,6 @@
 package QuizTime;
 
-public class Question {
+public class Question extends Quiz {
 
 }
 
